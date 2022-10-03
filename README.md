@@ -1,4 +1,5 @@
-![MERN Stack Web Developer](https://www.rlogical.com/wp-content/uploads/2020/12/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.png)
+
+![MERN Stack Web Developer](https://qph.cf2.quoracdn.net/main-qimg-073ea8b86447ed9310e7e73bd89894b3)
 
 ### Hi there 👋, My name is Nabab Sharif
 #### MERN Stack Web Developer
